@@ -1,5 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Main from './src/5-ManagingAList';
+import Main from './src/6-ScrollView';
+// import Main from './src/5-ManagingAList';
 // import Main from './src/4-HandlingEvents';
 // import Main from './src/3-LayoutAndFlexbox';
 // import Main from './src/2-StyleSheet';
