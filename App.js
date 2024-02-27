@@ -1,5 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Main from './src/1-InlineStyles';
+import Main from './src/2-StyleSheet';
+// import Main from './src/1-InlineStyles';
 
 export default function App() {
 	return (
