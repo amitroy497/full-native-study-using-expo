@@ -1,5 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Main from './src/8-HandlingTapsWithPressableComponent';
+import Main from './src/9-MakingItemsDeletableUsingID';
+// import Main from './src/8-HandlingTapsWithPressableComponent';
 // import Main from './src/7-FlatList';
 // import Main from './src/6-ScrollView';
 // import Main from './src/5-ManagingAList';
