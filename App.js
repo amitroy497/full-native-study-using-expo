@@ -1,5 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Main from './src/10-AndroidRippleEffectAndIOSAlternative';
+import Main from './src/11-Modal';
+// import Main from './src/10-AndroidRippleEffectAndIOSAlternative';
 // import Main from './src/9-MakingItemsDeletableUsingID';
 // import Main from './src/8-HandlingTapsWithPressableComponent';
 // import Main from './src/7-FlatList';
