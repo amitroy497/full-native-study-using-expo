@@ -1,5 +1,6 @@
 import { StyleSheet, View } from 'react-native';
-import Main from './src/12-Images';
+import Main from './src/13-StatusBar';
+// import Main from './src/12-Images';
 // import Main from './src/11-Modal';
 // import Main from './src/10-AndroidRippleEffectAndIOSAlternative';
 // import Main from './src/9-MakingItemsDeletableUsingID';
